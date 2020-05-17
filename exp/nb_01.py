@@ -7,8 +7,8 @@
 
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-mpl.rcParams['image.cmap'] = 'gray'
 
+mpl.rcParams['image.cmap'] = 'gray'
 import torch
 from torch import tensor
 import graphviz
